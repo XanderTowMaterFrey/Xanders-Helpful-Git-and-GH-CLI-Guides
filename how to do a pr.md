@@ -10,7 +10,7 @@ This will help you learn how to use your IDE for a more effective workflow with 
 
 ---
 
-### Step 0: Prep Work
+### Step 0 :: Prep Work
 
 #### **Ensure Everything Is Up To Date**
 
@@ -24,7 +24,7 @@ git status
 
 ---
 
-### Step 1: New PR Branch Creation
+### Step 1 :: New PR Branch Creation
 
 #### **Create The Branch You Will Use In The PR**
 
@@ -34,7 +34,7 @@ git checkout -b branchForNewPR
 
 ---
 
-### Step 2: Set Up The Branch With The Features You Want Via The Files You Want
+### Step 2 :: Set Up The Branch With The Features You Want Via The Files You Want
 
 #### **Add Desired Files You Want To Ensure Are Added To The PR**
 
@@ -49,7 +49,7 @@ git status
 
 ---
 
-### Step 3: Ensure Everything Is Right As We Prepare To Push Everything
+### Step 3 :: Ensure Everything Is Right As We Prepare To Push Everything
 
 #### **Commit The Files And Features You Want To Add To The PR**
 
@@ -70,7 +70,7 @@ git push origin branchForNewPR
 
 ---
 
-### Step 4: Create The PR
+### Step 4 :: Create The PR
 
 #### **Create The PR**
 
